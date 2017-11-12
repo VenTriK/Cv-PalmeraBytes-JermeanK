@@ -1,0 +1,110 @@
+
+ #name {
+    width: 50%;
+    margin-right: 250px;
+    float:left;
+}
+
+#Jermean img {
+    width: 15%;
+    height: auto;
+    border-radius: 50px;
+    border: 5px solid rgb(92, 94, 92);
+    float: center;
+}
+
+#contactdetails {
+float:"right";
+
+}
+#myProgress {
+    width: 25%;
+    background-color: grey;
+  
+
+}
+  #myBar1 {
+    width: 100%;
+    height: 20px;
+    background-color: #4CAF50;
+    text-align: left;
+    line-height: 20px;
+    color: white}
+    
+    
+    #myBar2 {
+    width: 80%;
+    height: 20px;
+    background-color: #4CAF50;
+    text-align: left;
+    line-height: 20px;
+    color: white;}
+    
+    #myBar3 {
+    width: 100%;
+    height: 20px;
+    background-color: #4CAF50;
+    text-align: left;
+    line-height: 20px;
+    color: white;}
+    
+    #myBar4 {
+    widt:100%;
+    height: 20px;
+    background-color: #4CAF50;
+    text-align: left;
+    line-height: 20px;
+    color: white;}
+    
+    #myBar5 {
+    width: 80%;
+    height: 20px;
+    background-color: #4CAF50;
+    text-align: left;
+    line-height: 20px;
+    color: white;
+  }
+  
+  #myBar6 {
+    width: 100%;
+    height: 20px;
+    background-color: #4CAF50;
+    text-align: left;
+    line-height: 20px;
+    color: white;
+  }
+  
+  #myBar7 {
+    width: 80%;
+    height: 20px;
+    background-color: #4CAF50;
+    text-align: left;
+    line-height: 20px;
+    color: white;
+  }
+  
+  #myBar8 {
+    width: 90%;
+    height: 20px;
+    background-color: #4CAF50;
+    text-align: left;
+    line-height: 20px;
+    color: white;
+  }
+  
+  #myBar9 {
+    width: 90%;
+    height: 20px;
+    background-color: #4CAF50;
+    text-align: left;
+    line-height: 20px;
+    color: white;
+  }
+  
+  #myBar10 {
+    width: 100%;
+    height: 20px;
+    background-color: #4CAF50;
+    text-align: left;
+    line-height: 20px;
+    color: white;
