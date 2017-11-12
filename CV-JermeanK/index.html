@@ -16,60 +16,63 @@
             border: 1px solid grey;
         }
 
-        header {
+        .header {
             padding: 10px;
             color: white;
-            background-color: blue;
+            background-color: rgb(5, 5, 150);
             clear: left;
             text-align: left;
+            margin: 5px;
         }
 
-        #wrap {
-            width: 500px;
+        .MainArea {
+            width: 1px;
         }
 
         .left {
             width: 500px;
             background-color: white;
-            height: 1000px;
+            height: auto;
             float: left;
+            margin: 10px;
 
         }
 
         .pull-right {
             width: 500px;
             background-color: white;
-            height: 600px;
+            height: auto;
             float: right;
         }
     </style>
-    <div>
-        <div class="header details">
 
-            <div id="name">
-                <h1 class="name">Jermean Kaersenhout</h>
-                    <h3 class="motto">When something is important enough, you do it even if the odds are not in your favor</h3>
+    <div class="header details">
 
-            </div>
-            <div id="Jermean">
+        <div id="name">
+            <h1 class="name">Jermean Kaersenhout</h>
+                <h3 class="motto">When something is important enough, you do it even if the odds are not in your favor</h3>
 
-                <img src="Jermean.jpg" alt="Jermean Kaersenhout">
-            </div>
-
-            <div id="contactdetails">
-                <ul>
-                    <li>Email</li>
-                    <li>Facebook</li>
-                    <li>Mobile</li>
-
-                </ul>
-            </div>
         </div>
+        <div id="Jermean">
+
+            <img src="Jermean.jpg" alt="Jermean Kaersenhout">
+        </div>
+
+        <div id="contact-details">
+            <ul>
+                <li>Email:Jermean@hotmail.com</li>
+                <li>Facebook:Jermean Kaersenhout</li>
+                <li>Mobile:297-5936417</li>
+
+            </ul>
+        </div>
+    </div>
+
 </header>
 
 <body>
     <section>
-        <div id="wrap">
+        <div id="MainArea">
             <div class="left">
                 <h1>Work Experience</h1>
                 <h4 class="date">November 2013 - August 2016</h4>
@@ -170,7 +173,7 @@
             <h3>3 time Setar Gaming event Champions</h3>
             <p>Yearly FPS Gaming tournament in Aruba in which my team and I obtained the undefeated title 3 years back to back,
                 managed mutliple teams in multiple game genres taking 13 first place medals and trophies in the last event.</p>
-            
+
             <div>
                 <h3 class="Languages">Languages</h3>
                 <ul style="list-style-type: none; display: inline-block;">
@@ -231,11 +234,7 @@
             </div>
         </div>
     </section>
-    <section>
 
-
-
-    </section>
 
     <script src="js/scripts.js"></script>
 </body>
